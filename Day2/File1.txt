@@ -1,1 +1,2 @@
 This is first file
+git config --global init.defaultBranch main to create git repostiry in main branch instead of master branch 
